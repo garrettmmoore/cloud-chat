@@ -1,0 +1,16 @@
+{
+  "name": "cloud-chat",
+  "version": "0.0.1",
+  "description": "A simple chat client to experiment with AWS Fargate and Socket.io.",
+  "main": "index.js",
+  "author": "Garrett Moore",
+  "private": false,
+  "license": "BSD",
+  "dependencies": {
+    "express": "4.16.3",
+    "socket.io": "2.1.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
