@@ -1,7 +1,7 @@
 
 # Cloud Chat
 
-https://dplrf0kxyni7i.cloudfront.net/
+http://clust-publi-1m9vd7hqg31bh-587628207.us-east-1.elb.amazonaws.com/
 
 A simple chat client to experiment with AWS Fargate and Socket.io.
 
